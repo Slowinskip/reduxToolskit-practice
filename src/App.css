@@ -43,7 +43,12 @@
   background-color: rosybrown;
   margin: 0;
   padding: 20px;
-  button {
-    font-size: 15px;
-  }
+}
+
+.products {
+  background-color: rosybrown;
+  margin: 15px 0;
+  padding: 20px;
+}
+.product {
 }
